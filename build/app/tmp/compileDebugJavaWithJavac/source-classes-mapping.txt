@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/leader_board_score/BuildConfig.java
+ com.example.leader_board_score.BuildConfig
